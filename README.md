@@ -17,6 +17,6 @@
 
 <table>
 <tr>
-    <th><img width="600" src="./scripts/figures_rule_of_law/rol_mv_regression.png" ></th>
+    <th><img width="800" src="./scripts/figures_rule_of_law/rol_mv_regression.png" ></th>
   </tr>
 </table>
