@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <th><img width="800" src="./scripts/figures_rule_of_law/correlation_rule_of_law.png" ></th>
+    <th><img width="800" src="./scripts/figures_rule_of_law/correlation_rlue_of_law.png" ></th>
   </tr>
 </table>
 
