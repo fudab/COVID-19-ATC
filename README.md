@@ -1,2 +1,11 @@
 # COVID-19-ATC
-ATC stands for all things considered. Every piece of unofficial knowledge you want to know about COVID-19 is here.
+
+## About
+
+> ATC stands for all things considered. Provide you with all sorts of knowledge about COVID-19.
+
+## Projects
+
+### Correlation between infection rate and rule of law
+
+
