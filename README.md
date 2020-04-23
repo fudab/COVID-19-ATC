@@ -8,4 +8,10 @@
 
 ### Correlation between infection rate and rule of law
 
+<table>
+  <tr>
+    <th><img width="800" src="./scripts/figures_rule_of_law/correlation_rule_of_law.png" ></th>
+  </tr>
+</table>
+
 
