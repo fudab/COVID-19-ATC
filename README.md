@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <th><img width="800" src="./scripts/figures_rule_of_law/rol_general.png" ></th>
+    <th><img width="1000" src="./scripts/figures_rule_of_law/rol_general.png" ></th>
   </tr>
 </table>
 
